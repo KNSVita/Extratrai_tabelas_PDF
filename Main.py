@@ -31,3 +31,6 @@ botao_selecionar_pdf = tk.Button(root, text="Selecionar PDF", command=obter_dado
 botao_selecionar_pdf.grid(row=2, column=0, columnspan=2)
 
 root.mainloop()
+
+# fazer uma transposta
+# fazer loading para o usuário 
